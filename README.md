@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/ZDropdown.svg?style=flat)](http://cocoapods.org/pods/ZDropdown)
 [![Platform](https://img.shields.io/cocoapods/p/ZDropdown.svg?style=flat)](http://cocoapods.org/pods/ZDropdown)
 
+![alt tag](https://github.com/CaryZheng/ZDropdownWidget/blob/master/demo.gif)
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
