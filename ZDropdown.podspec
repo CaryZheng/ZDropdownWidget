@@ -20,17 +20,17 @@ Pod::Spec.new do |s|
                         ZDropdown is a dropdown widget written in Swift
                        DESC
 
-  s.homepage         = "https://github.com/CaryZheng/ZDropdown"
+  s.homepage         = "https://github.com/CaryZheng/ZDropdownWidget"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "CaryZheng" => "CaryZhengMy@gmail.com" }
-  s.source           = { :git => "https://github.com/CaryZheng/ZDropdown.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/CaryZheng/ZDropdownWidget.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '8.0'
   s.requires_arc = true
 
-  s.source_files = 'Pod/Classes/**/*.swift'
+  s.source_files = 'Pod/Classes/**/*'
   s.resource_bundles = {
     'ZDropdown' => ['Pod/Assets/*.png']
   }
