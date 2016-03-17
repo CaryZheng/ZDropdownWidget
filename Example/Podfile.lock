@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  ZDropdown: 3af75505f285ba844f4faec5e368f7b73a804282
+  ZDropdown: a228cf9a22c03538bc25ef35917e3c6901ec1d2f
 
 COCOAPODS: 0.39.0
